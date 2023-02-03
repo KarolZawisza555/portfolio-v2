@@ -13,7 +13,7 @@
     </v-expansion-panel-title>
     <v-expansion-panel-text>
       <v-card variant="default" width="100%" class="ma-3">
-        <v-card-title class="text-h6 text-md-h5 text-lg-h4">Feb 2020 – Apr 2020</v-card-title>
+        <v-card-title class="text-h6 text-md-h5 text-lg-h4">Feb 2021 – Apr 2021</v-card-title>
         <v-list>
           <v-list-item>
             Developing and maintaining the front-end of websites and web
